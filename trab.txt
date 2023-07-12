@@ -2,3 +2,9 @@ dias de la semana
 lunes
 martes
 miercoles
+
+MESES
+enero
+febrero
+marzo
+
